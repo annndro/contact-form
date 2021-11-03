@@ -1,0 +1,11 @@
+body{
+	background:#8a9a5b;
+	color:white;
+	font-family: Montserrat;
+}
+.container1 div{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:center;
+}
